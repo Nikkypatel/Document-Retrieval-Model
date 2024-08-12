@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+pdf2image
+Pillow
+numpy
+pandas
