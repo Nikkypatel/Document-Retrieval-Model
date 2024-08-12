@@ -1,0 +1,11 @@
+Go through the model generation code and it is being able find the dataset in it.
+
+!pip install datasets
+
+from datasets import load_dataset
+
+# Load the dataset
+
+dataset = load_dataset('not-lain/sroie')
+
+using the above code, dataset will be automatically downloads into the notebook interface
